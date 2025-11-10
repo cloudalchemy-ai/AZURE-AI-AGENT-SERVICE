@@ -4,7 +4,7 @@
 The sequential orchestration pattern organizes agents in a pipeline. Each agent processes the task in turn, passing its output to the next agent. This is ideal for workflows where each step builds upon the previous one, such as document review or multi-stage reasoning.
 
 **Sequential orchestration workflow**  
-**![][image1]**  
+**[workflow][image1]**  
 **Key Features**
 
 1. Agents  
